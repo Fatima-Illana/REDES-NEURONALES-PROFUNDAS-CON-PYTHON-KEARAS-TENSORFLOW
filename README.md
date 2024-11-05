@@ -27,4 +27,4 @@ El modelo final se optimiza mediante el uso de una arquitectura multicapa con ac
 ## Autores
 
 - [Fátima Fuchun Illana Guerra]
-- [Cristina Fernández Gómez]
+- [Cristina Fernández Gómez](https://github.com/crisfernandez)
