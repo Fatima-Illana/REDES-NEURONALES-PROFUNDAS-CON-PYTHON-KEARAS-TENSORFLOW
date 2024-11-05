@@ -15,6 +15,10 @@ El modelo final se optimiza mediante el uso de una arquitectura multicapa con ac
 - `Resultados/`: Presenta el modelo final y sus métricas de rendimiento.
 - `Conclusiones/`: Conclusiones sobre el proceso de ajuste de hiperparámetros y los resultados.
 
+## Resultados Modelo Final
+
+<img src="./Results/GraficaModeloFinal.jpg" alt="Modelo Final" width="1000"/>
+
 ## Requisitos
 
 - Python 3.x
