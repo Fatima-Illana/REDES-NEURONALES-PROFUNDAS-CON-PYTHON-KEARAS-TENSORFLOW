@@ -2,6 +2,11 @@
 
 Este proyecto desarrolla una red neuronal profunda para predecir la cancelación de reservas de hotel. Utiliza un dataset de 36,275 instancias y 19 variables, ajustando diversos hiperparámetros y técnicas de optimización para maximizar la precisión.
 
+## Autores
+
+- [Fátima Fuchun Illana Guerra](https://github.com/Fatima-Illana)
+- [Cristina Fernández Gómez](https://github.com/crisfernandez)
+
 ## Descripción del Proyecto
 
 El objetivo principal es entrenar una red neuronal profunda capaz de clasificar si una reserva será cancelada en función de datos como el número de noches, el número de adultos y el historial de cancelación del cliente. Para lograrlo, probamos diferentes combinaciones de activaciones, tasas de aprendizaje, regularización y métodos de inicialización de pesos.
@@ -23,8 +28,3 @@ El modelo final se optimiza mediante el uso de una arquitectura multicapa con ac
 
 - Python 3.x
 - Bibliotecas: TensorFlow, Keras, NumPy, Pandas
-
-## Autores
-
-- [Fátima Fuchun Illana Guerra]
-- [Cristina Fernández Gómez](https://github.com/crisfernandez)
