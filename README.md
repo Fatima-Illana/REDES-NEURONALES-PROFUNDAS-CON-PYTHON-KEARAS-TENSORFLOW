@@ -10,10 +10,10 @@ El modelo final se optimiza mediante el uso de una arquitectura multicapa con ac
 
 ## Estructura del Proyecto
 
-- `Introducción/`: Explica el problema y el dataset utilizado.
-- `Proceso de Diseño/`: Describe el diseño de la red y las iteraciones de ajuste de hiperparámetros.
-- `Resultados/`: Presenta el modelo final y sus métricas de rendimiento.
-- `Conclusiones/`: Conclusiones sobre el proceso de ajuste de hiperparámetros y los resultados.
+- `Introducción`: Explica el problema y el dataset utilizado.
+- `Proceso de Diseño`: Describe el diseño de la red y las iteraciones de ajuste de hiperparámetros.
+- `Resultados`: Presenta el modelo final y sus métricas de rendimiento.
+- `Conclusiones`: Conclusiones sobre el proceso de ajuste de hiperparámetros y los resultados.
 
 ## Resultados Modelo Final
 
