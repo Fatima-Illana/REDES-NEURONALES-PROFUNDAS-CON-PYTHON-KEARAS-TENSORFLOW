@@ -17,7 +17,7 @@ El modelo final se optimiza mediante el uso de una arquitectura multicapa con ac
 
 ## Resultados Modelo Final
 
-<img src="./Results/GraficaModeloFinal.jpg" alt="Modelo Final" width="1000"/>
+<img src="./GraficaModeloFinal.jpg" alt="Modelo Final" width="1000"/>
 
 ## Requisitos
 
