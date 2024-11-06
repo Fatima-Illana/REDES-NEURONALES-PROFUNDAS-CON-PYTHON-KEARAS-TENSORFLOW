@@ -28,3 +28,4 @@ El modelo final se optimiza mediante el uso de una arquitectura multicapa con ac
 
 - Python 3.x
 - Bibliotecas: TensorFlow, Keras, NumPy, Pandas
+- Dataset no disponible
